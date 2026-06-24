@@ -51,7 +51,7 @@ O ambiente de execucao requer a instalacao das seguintes dependencias:
 
 Clone o repositorio:
 ```
- git clone <[URL_DO_SEU_REPOSITORIO](https://github.com/mneves0988/ml-mercado-financeiro)>
+ git clone https://github.com/mneves0988/ml-mercado-financeiro
  cd ml-mercado-financeiro
 ```
 Crie e ative a venv:
