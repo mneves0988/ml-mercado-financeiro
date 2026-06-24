@@ -1,0 +1,77 @@
+{
+  "executado_em": "2026-06-24 05:00:23 UTC",
+  "contas_gaps": {
+    "total_linhas": 117016,
+    "detalhe_nulos": {
+      "gap_percentual_bucket": {
+        "quantidade": 76122,
+        "percentual": 65.05
+      },
+      "id": {
+        "quantidade": 0,
+        "percentual": 0.0
+      },
+      "classe_ativo": {
+        "quantidade": 0,
+        "percentual": 0.0
+      },
+      "aderencia_percentual": {
+        "quantidade": 0,
+        "percentual": 0.0
+      },
+      "tipo_gap": {
+        "quantidade": 0,
+        "percentual": 0.0
+      },
+      "created_at": {
+        "quantidade": 0,
+        "percentual": 0.0
+      },
+      "cod_conta_uuid": {
+        "quantidade": 0,
+        "percentual": 0.0
+      },
+      "custodia_faixa": {
+        "quantidade": 0,
+        "percentual": 0.0
+      }
+    }
+  },
+  "campanhas_links": {
+    "total_linhas": 9,
+    "detalhe_nulos": {
+      "embedding": {
+        "quantidade": 9,
+        "percentual": 100.0
+      },
+      "id": {
+        "quantidade": 0,
+        "percentual": 0.0
+      },
+      "product_type": {
+        "quantidade": 0,
+        "percentual": 0.0
+      },
+      "title": {
+        "quantidade": 0,
+        "percentual": 0.0
+      },
+      "description": {
+        "quantidade": 0,
+        "percentual": 0.0
+      },
+      "destaque": {
+        "quantidade": 0,
+        "percentual": 0.0
+      },
+      "created_at": {
+        "quantidade": 0,
+        "percentual": 0.0
+      },
+      "embedding_texto": {
+        "quantidade": 0,
+        "percentual": 0.0
+      }
+    }
+  }
+}
